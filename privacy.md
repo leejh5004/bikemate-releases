@@ -62,7 +62,7 @@ TWOHOONS RIDING(이하 "이 앱", 운영자: 이정훈)은 회원의 개인정�
 ## 6. 개인정보 보호 책임자
 
 - 이름: 이정훈 (TWOHOONS RIDING 운영자)
-- 이메일: leejh5001@gmail.com
+- 이메일: leejh5004@gmail.com
 
 개인정보에 대해 궁금한 점이 있으면 위 이메일로 연락해 주세요.
 
